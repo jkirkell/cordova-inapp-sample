@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"plugins-plist":{},"framework":{"StoreKit.framework":{"false":1}},"config.xml":{"/*":{"<feature name=\"InAppPurchase\"><param name=\"ios-package\" value=\"InAppPurchase\" /></feature>":1}}},"installed_plugins":{"com.phonegap.plugins.inapppurchase":{"PACKAGE_NAME":"com.sample.app"}},"dependent_plugins":{}}
